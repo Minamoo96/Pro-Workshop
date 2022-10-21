@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916797668176",
+    "project_id": "professional-workshop",
+    "storage_bucket": "professional-workshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916797668176:android:20a657b76d05a7a7dcca55",
+        "android_client_info": {
+          "package_name": "com.fury.labs.professionalworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916797668176-bnbs9oq5o5l3atmlohelqqctdk12rv6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIwR8ipxbI2stoLQ-H8i6op_5-hOFMGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916797668176-bnbs9oq5o5l3atmlohelqqctdk12rv6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
